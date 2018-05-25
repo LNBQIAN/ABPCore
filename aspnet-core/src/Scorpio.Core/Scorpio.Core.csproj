@@ -22,4 +22,7 @@
     <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="2.0.2" />
     <PackageReference Include="Castle.Windsor.MsDependencyInjection" Version="3.3.0" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="PhoneBooks\PhoneNumbers\" />
+  </ItemGroup>
 </Project>
